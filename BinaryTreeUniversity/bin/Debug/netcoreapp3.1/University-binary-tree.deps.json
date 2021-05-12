@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "University-binary-tree/1.0.0": {
+        "runtime": {
+          "University-binary-tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "University-binary-tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
